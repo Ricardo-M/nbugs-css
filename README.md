@@ -1,5 +1,3 @@
-# nbugs-css
-
 #btn{
 width: 90px;}
 
